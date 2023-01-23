@@ -202,7 +202,7 @@ body {
     border-bottom-right-radius: 30px;
     border-top-left-radius: 100%;
     border-top-right-radius: 30px;
-    background-color: #255577;
+    background: linear-gradient(94.37deg, #114162 0.97%, #1b456380 125.22%);
 }
 
 .header-img img {
